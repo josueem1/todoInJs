@@ -1,14 +1,14 @@
-# Webpack Starter
+# Todo made in Javascript
 
-Este es el proyecto inicial para crear aplicaciones utilizando Webpack
+This proyect is a simple todo
 
-### Notas:
-Recuerden reconstruir los modulos de Node
+### Notes:
+First build node modules 
 
 ````
 npm install
 ````
-Para construir el build
+Run build
 ````
 npm run build
 ````
